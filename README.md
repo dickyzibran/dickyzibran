@@ -51,5 +51,10 @@ Experienced as a Teaching Assistant for the OOP course.
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dickyzibran/dickyzibran/output/snake.svg" />
+</p>
 
 [![](https://visitcount.itsvg.in/api?id=araa-w&icon=0&color=0)](https://visitcount.itsvg.in)
