@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Dicky Zibran
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student;Web+Developer+Enthusiast;Automation+%26+Backend+Learner;Building+Impactful+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student" />
 </p>
 
-Informatics Engineering student with a strong passion for web development and technology innovation. Currently deepening knowledge in automation, backend systems, and the modern web stack while continuously exploring emerging technologies and building impactful real-world projects.
+Informatics Engineering student with a strong interest in web development and technological innovation, currently focusing on deepening knowledge in automation and the modern web stack, while continuously exploring new technologies and building impactful real-world projects that sharpen technical skills and problem-solving abilities.
 
 ---
 
 ## 💻 Tech Stack
 
 ### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
