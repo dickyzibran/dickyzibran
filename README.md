@@ -1,44 +1,96 @@
-# 👋 Hi, I'm Dicky Zibran
+# Hi, I'm Dicky Zibran
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Informatics+Engineering+Student" />
 </p>
 
-Informatics Engineering student with a strong interest in web development and technological innovation, currently focusing on deepening knowledge in automation and the modern web stack, while continuously exploring new technologies and building impactful real-world projects that sharpen technical skills and problem-solving abilities.
-
----
-
-## 💻 Tech Stack
-
-### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-### ⚙ Backend & Database
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🛠 Productivity Tools
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-
----
-
-## 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dickyzibran/dickyzibran/output/snake.svg" />
+  Informatics Engineering student with a strong interest in web development and technological innovation,
+  currently focusing on deepening knowledge in automation and the modern web stack,
+  while continuously exploring new technologies and building impactful real-world projects
+  that sharpen technical skills and problem-solving abilities.
 </p>
 
 ---
 
-## 🎮 GitHub Activity Game
+# Tech Stack
+
+<table>
+  <tr>
+    <td width="180"><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,php,laravel" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Database</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Productivity</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=word,excel,powerpoint" />
+    </td>
+  </tr>
+</table>
+
+---
+
+# GitHub Activity
 
 <p align="center">
   <img src="assets/space-shooter.gif" />
 </p>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dickyzibran&bg_color=0D1117&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</div>
+
+---
+
+# GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dickyzibran&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dickyzibran&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dickyzibran&theme=transparent&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=00F0FF&border=00F0FF" />
+</p>
+<br>
+<h2 align="center">Connect With Me</h2>
+
+<p align="center">
+<a href="https://linkedin.com/in/dicky-zibran/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/dickyzibran">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:dickyzibran3421@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F0FF,100:005CFF&section=footer"/>
