@@ -40,7 +40,7 @@
   <tr>
     <td><b>Tools</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
     </td>
   </tr>
 
