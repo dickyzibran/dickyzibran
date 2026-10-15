@@ -54,15 +54,22 @@
 
 ---
 
+
 # GitHub Activity
 
 <p align="center">
-  <img src="assets/space-shooter.gif" />
+  <img
+    src="https://raw.githubusercontent.com/dickyzibran/dickyzibran/main/assets/space-shooter.gif"
+    width="100%"
+    alt="Space Shooter Animation"
+  />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dickyzibran&bg_color=0D1117&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
-</div>
+<p align="center">
+  <a href="https://github.com/dickyzibran?tab=overview">
+    View My GitHub Contributions →
+  </a>
+</p>
 
 ---
 
