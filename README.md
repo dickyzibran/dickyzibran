@@ -70,11 +70,6 @@
 # GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dickyzibran&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dickyzibran&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=dickyzibran&theme=transparent&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=00F0FF&border=00F0FF" />
 </p>
 <br>
